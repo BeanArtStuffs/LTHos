@@ -5,7 +5,7 @@
 I'm Lillith, maker of the LTHos Terminal!
 
 Before we start, make sure you have these things installed:
-Python, preferably the latest version (Downloadable from the Microsoft Store, 3.12 is the latest at the time o
+Python, preferably the latest version (Downloadable from the Microsoft Store, 3.12 is the latest at the time i'm writing this.
 Pygame, of which you can download by saying 'pip install pygame' in your terminal (AFTER YOU HAVE INSTALLED PYTHON) 
 And some kind of code editor/notepad.
 You can have the launcher for the LTHos Terminal on your desktop, but make sure the other files are safe, and make sure it's a shortcut.
