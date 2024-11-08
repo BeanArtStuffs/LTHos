@@ -8,7 +8,7 @@ DARK_GREEN = '\033[32m'
 RESET = '\033[0m'
 
 # List of developer usernames
-developer_usernames = ["roger", "s10095479"]  # Add more usernames as needed
+developer_usernames = ["roger", "s10095479" , "georg"]  # Add more usernames as needed
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -56,7 +56,7 @@ footer = """
 """
 
 # Display the ASCII title slowly
-print_with_delay(title_screen, 0.5)
+print_with_delay(title_screen, 0.2)
 print_with_delay(footer, 0.3)
 
 # Display menu options with delay
